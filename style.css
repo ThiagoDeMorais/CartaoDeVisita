@@ -1,0 +1,41 @@
+body{
+background-image: url("Imagens/backgorund.png");
+background-repeat: no-repeat;
+background-size: 400px,200px;
+}
+
+
+.courier{
+	font-family: 'Courier Prime', monospace;
+	font-weight: normal;	
+}
+
+h2{
+	padding-left: 20px;
+}
+
+.instagram{
+	list-style-image: url(Imagens/Insta.png);
+
+}
+
+.twitter{
+	list-style-image: url(Imagens/Twitter.png);
+
+}
+
+.youtube{
+	list-style-image: url(Imagens/Youtube.png);
+	
+
+}
+
+ul{
+	padding-left: 50px;
+}
+
+a{
+	text-decoration: none;
+	color: black;
+}
+
